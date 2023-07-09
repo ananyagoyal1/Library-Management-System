@@ -4,7 +4,7 @@ import mysql.connector
 cnx = mysql.connector.connect(
     host='Ananya-Goyal',
     user='root@localhost',
-    password='1706',
+    password='',
     database='library'
 )
 
